@@ -1,4 +1,8 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {};
+// next.config.mjs
+const config = {
+  images: {
+    domains: ['assets.aceternity.com'], // Add the external image domain
+  },
+};
 
-export default nextConfig;
+export default config;
