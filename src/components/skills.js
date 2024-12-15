@@ -54,7 +54,7 @@ export default function Skills() {
   }, []);
 
   return (
-    <div className="skills-container">
+    <div className="skills-container mt-[-1760px] w-[1210px] ml-[10px] absolute">
       <LampContainer>
       <div className='mt-[-115px] absolute'>
       <Navbar />

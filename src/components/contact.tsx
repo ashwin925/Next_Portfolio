@@ -86,7 +86,7 @@ export default function ContactForm() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
                   <p className="text-xl mb-2">Thank you!</p>
-                  <p className="text-base">We'll be in touch soon.</p>
+                  <p className="text-base">We Will be in touch soon.</p>
                 </motion.div>
               ) : (
                 <motion.form

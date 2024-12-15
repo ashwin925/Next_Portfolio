@@ -8,6 +8,7 @@ function Homepage() {
   return (
     <div>
       <About />
+      <Skills />
       <ProjectPage />
       <ContactForm />
     </div>
